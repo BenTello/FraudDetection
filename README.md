@@ -4,6 +4,6 @@ El notebook se divide en tres partes. En la parte (1) hacemos un análisis explo
 
 Instrucciones.
 
-Para correr el notebook basta con escribir en csv_path = "_ _ _" la ruta del archivo "ds_challenge_data_2022.csv".
+Para correr el notebook basta con escribir en csv_path = "_ _ _" la ruta del archivo "proyecto_TC_FD_data.csv".
 
 La PPT "Negocio_TC" presenta los resultados del análisis.
