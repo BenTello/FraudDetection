@@ -6,4 +6,4 @@ Instrucciones.
 
 Para correr el notebook basta con escribir en csv_path = "_ _ _" la ruta del archivo "ds_challenge_data_2022.csv".
 
-La PPT "Proyecto_TC__DF" presenta los resultados del análisis.
+La PPT "Negocio_TC" presenta los resultados del análisis.
