@@ -1,6 +1,6 @@
 Caso de negocio: Tarjeta de Credito y Detección de Fraude
 
-Para este caso de negocio contamos con información sobre transacciones con tarjeta de crédito de un Banco Comercial. Los objetivos son (1) crear estrategias de negocio para el banco basadas en el análisis de esta información y (2) crear un modelo para la detección de transacciones fraudulentas. 
+Contamos con información sobre transacciones con tarjeta de crédito de un Banco Comercial. Los objetivos son (1) crear estrategias de negocio para el banco basadas en el análisis de esta información y (2) crear un modelo para la detección de transacciones fraudulentas. 
 
 El Data Set con el que contamos contiene información sobre transacciones: fecha y hora de la transacción, monto, tipo de establecimiento y ciudad en donde se llevó a cabo, cashback, si fue aceptada o rechazada y si la transacción fue catalogada como fraudulenta o no. También hay información sobre los clientes: género, línea de crédito, intereses, características de su celular, si es cliente premium y un ID único.
 
